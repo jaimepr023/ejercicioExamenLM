@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            text-align: centre;
+            }
+        
+
+        h1 {
+            color: #333;
+        }
+
+        .imagenes {
+           margin-top: 20px
+        }
+
+        .ulista {
+           
+            padding: 0;
+        }
+
+        .list {
+            margin: 10px ;
+        }
+
+       p{
+	   height: 10%;
+	   }
+	   
+	   .cursiva{
+		   font-style: oblique;
+		    margin: 10px ;
+	   }
+	   
+	   .negrita{
+		   font-weight: bold;
+		    margin: 10px ;
+	   }
+	   .imagenes{
+		   height: 10rem;
+		margin-right:2rem ;
+	   }
+	   
+	   .imagenes:hover{
+		   height: 15rem;
+	   }
